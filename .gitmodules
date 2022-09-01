@@ -1,3 +1,3 @@
 [submodule "libjieba"]
 	path = libjieba
-	url = https://github.com/yanyiwu/cppjieba
+	url = https://github.com/xiou-hong/cppjieba
