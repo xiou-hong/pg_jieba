@@ -1,3 +1,4 @@
 [submodule "libjieba"]
 	path = libjieba
 	url = https://github.com/xiou-hong/cppjieba
+	branch = master
